@@ -1,0 +1,71 @@
+body {
+	background-color:#66A5AD;
+	font-family: arial;
+}
+
+.article-container {
+	width: 900px;
+	background-color:#C4DFE6;
+	padding: 30px;
+}
+
+.article-box {
+	width: 100%;
+	padding-bottom: 30px;
+}
+.span3{
+position:relative;
+margin-left: 1000px;
+top:-125px;
+left:470px;
+font-size: 40px;
+}
+
+.span3 a{
+text-decoration:none;
+}
+
+input[type=text] {
+    width: 130px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+    width: 25%;
+}
+
+button {
+	width: 100px;
+	height: 40px;
+	font-size: 15px;
+  color: gray;
+}
+
+.spanx a {
+	position: relative;
+
+	right: -690px;
+	bottom: 30px;
+	font-size: 40px;
+	top: -72px;
+	text-decoration : none;
+	left: 683px;
+}
+
+.add {
+	position: relative;
+  left:520px;
+	top: -34px;
+	font-size: 26px;
+
+}
